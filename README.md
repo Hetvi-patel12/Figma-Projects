@@ -15,7 +15,7 @@ The Links of Figma Projects
   ### My Design Work [My Design Work](https://www.figma.com/design/JC87icBAmrsxTuZx1H2rZp/My-new-latest-project?node-id=0-1&t=rruyFN3zZ32di1bI-1)
  
 - ** Description:-**
-- Dropdown Menu UI
+- **Dropdown Menu UI**
 A clean and interactive dropdown component, ideal for navigation menus or filter selections.
 Includes hover effects and icon alignment for a modern look.
 
@@ -23,7 +23,7 @@ Includes hover effects and icon alignment for a modern look.
 - On clicking an option, that selection is shown at the top of the dropdown box.
 - Helps improve clarity and user experience in selecting categories or filters.
 
- Phone Clock Interface
+- **Phone Clock Interface**
 A minimalistic mobile clock design featuring time, date, and alarm settings.
 Focuses on readability and touch-friendly controls.
 
@@ -31,7 +31,7 @@ Focuses on readability and touch-friendly controls.
 - Each icon is designed to be easily accessible on mobile and supports intuitive navigation.
 - The active page is usually highlighted or underlined for better visual feedback.
 
- Food Menu Page
+ -**Food Menu Page**
 Visually appealing layout for displaying food items with images, names, and prices.
 Well-suited for restaurant apps or websites.
 - Clicking the “Menu” button takes the user to a new page with food categories.
@@ -39,7 +39,7 @@ Well-suited for restaurant apps or websites.
 - Choosing "Pizza" opens a pizza menu page with various pizza types.
 - On the pizza page, the user can scroll down to explore and choose different pizza items.
 
- To-Do List App UI
+ -**To-Do List App UI**
 Simple task management interface with add, delete, and check functionality.
 Organized layout using cards or lists with priority tags or checkboxes.
 
