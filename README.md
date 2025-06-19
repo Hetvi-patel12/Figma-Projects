@@ -11,7 +11,22 @@ The Links of Figma Projects
   - If the user clicks on the Register Page link, it switches the layout to the registration form.
   - From there, the user can enter details and register a new account.
     
- 
+### My First Work[My First Work](https://www.figma.com/design/ftCFwbTkKEXC4g2ARbxEqz/My-First-Work?node-id=0-1&t=e7pMKdjg8ielCc9g-1)
+
+-** Discription:-**
+-** Nike Shoes UI **
+"My First Work" is a beginner-level UI/UX design project created using Figma, aimed at exploring the core principles of interface design, layout structuring, and visual balance. 
+
+ -Clean Layout: Organized structure with proper alignment and spacing for better readability.
+ -Modern Styling: Uses simple typography and a minimal color palette for visual clarity.
+ -UI Components: Includes buttons, input fields, and icons to create a realistic interface.
+
+ -**Glass Icons**
+ -** Discription:-**
+ The design features glassmorphism-style icons, characterized by a frosted glass effect with semi-transparent backgrounds, 
+ subtle blur, and soft shadows. This style gives the icons a sleek, modern look while maintaining visual depth and clarity. 
+ It enhances the overall aesthetic and pairs well with clean, minimal UI designs.
+
   ### My Design Work [My Design Work](https://www.figma.com/design/JC87icBAmrsxTuZx1H2rZp/My-new-latest-project?node-id=0-1&t=rruyFN3zZ32di1bI-1)
  
 - ** Description:-**
